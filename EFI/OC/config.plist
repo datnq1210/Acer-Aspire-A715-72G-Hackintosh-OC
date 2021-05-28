@@ -1246,7 +1246,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>C02943701GUJP4FJA</string>
+			<string>C02842100CDJP4F8C</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1256,9 +1256,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZL0C9KGYG</string>
+			<string>C02XKQZ5KGYG</string>
 			<key>SystemUUID</key>
-			<string>0925C4A4-B278-4609-A1E8-D33CD137565C</string>
+			<string>3D5409C2-1D5E-4C00-A60B-29E62AEDB45F</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
