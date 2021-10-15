@@ -1,5 +1,5 @@
 # Opencore-0.6.2
-CPU Model: i5 8300H
+CPU Model: i5 8300H \n
 Chipset Model:
 Intel(R) 300 Series Chipset Family LPC Controller (HM370) - A30D
 GPU Model:
